@@ -1,0 +1,10 @@
+ProjectShortcutBatCreator/.vs/
+*.filters
+*.obj
+*.user
+*.log
+*.idb
+*.pdb
+*.tlog
+*.ilk
+*.vcxproj
